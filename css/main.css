@@ -4,11 +4,11 @@ html,body {
 }
 
 .header {
-    background: linear-gradient(180deg, #0094FF 0%, #ff2b7a 100%);
+    background: linear-gradient(180deg, #ff6e9a 0%, #ffd7e6 100%);
 }
 
 .logo {
-    border: 3px solid #0094FF;
+    border: 3px solid #ff418a;
     border-radius: 50%;
     width: 200px;
     height: 200px;
